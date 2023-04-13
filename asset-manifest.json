@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asapunov/static/css/main.9a6f76b5.css",
+    "main.js": "/asapunov/static/js/main.775d9c04.js",
+    "static/js/787.ceb291ea.chunk.js": "/asapunov/static/js/787.ceb291ea.chunk.js",
+    "index.html": "/asapunov/index.html",
+    "main.9a6f76b5.css.map": "/asapunov/static/css/main.9a6f76b5.css.map",
+    "main.775d9c04.js.map": "/asapunov/static/js/main.775d9c04.js.map",
+    "787.ceb291ea.chunk.js.map": "/asapunov/static/js/787.ceb291ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6f76b5.css",
+    "static/js/main.775d9c04.js"
+  ]
+}
